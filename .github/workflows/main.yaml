@@ -1,4 +1,4 @@
-name: tepat_public_flutter
+name: flutter-chat-demo
 
 on: [pull_request, push]
 
